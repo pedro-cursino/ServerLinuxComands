@@ -94,4 +94,6 @@ sudo setfacl -m g:professores:rwx /var/arquivos
 ``` Verificar as ACLs
 getfacl /var/arquivos
 ```
+
+# Imagem do Sistema
 ![Imagem do Sistema](https://github.com/pedro-cursino/serverLinuxComands/blob/main/Sistema.png?raw=true)
